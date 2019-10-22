@@ -8,3 +8,4 @@ script:
   - "node tests/tests.js"
 after_script:
   - "npm run coveralls"
+x
